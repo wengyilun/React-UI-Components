@@ -1,0 +1,16 @@
+.footer-container{
+    margin-left: 100px;
+    padding-left: 20px;
+    display:flex;
+}
+
+.icon-container{
+    /*padding: 0.4rem ;*/
+    margin-right: 4rem;
+    color: gray;
+}
+
+
+.fa {
+    color: gray;
+}
