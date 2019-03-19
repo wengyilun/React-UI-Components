@@ -1,0 +1,12 @@
+.ledDisplayContainer{
+    color: white;
+    font-size: 3rem;
+    max-height: 140px;
+    background-color:#222;
+    padding: 10px 30px;
+}
+
+.ledDisplayContainer{
+    display:flex;
+    justify-content: flex-end;
+}

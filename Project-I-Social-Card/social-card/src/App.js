@@ -7,9 +7,9 @@ import FooterContainer from "./components/FooterComponents/FooterContainer"
 const App = () => {
   return (
     <div className="app-container">
-        <HeaderContainer  className='child-container'/>
-        <CardContainer className='child-container'/>
-        <FooterContainer className='child-container'/>
+        <HeaderContainer  />
+        <CardContainer />
+        <FooterContainer />
     </div>
   );
 };

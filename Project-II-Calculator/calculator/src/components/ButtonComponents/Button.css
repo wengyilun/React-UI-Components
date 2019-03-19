@@ -1,0 +1,23 @@
+button{
+    border: 1px solid gray;
+    color: black;
+    font-size: 2.8rem;
+    font-weight: bolder;
+    height: 140px;
+    outline:none;
+}
+
+button.action{
+    color:black;
+    font-weight: normal;
+    width: 100%;
+}
+
+button.col-3{
+    width: 100%;
+}
+
+button.red{
+    background-color: red;
+    color: white;
+}
