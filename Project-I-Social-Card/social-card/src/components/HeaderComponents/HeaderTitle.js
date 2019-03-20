@@ -3,7 +3,7 @@ import moment from 'moment';
 import './Header.css';
 
 const getDate = () => {
-    return moment().format('Do MMM');                    // Thursday
+    return moment().format('Do MMM');
 }
 
 const HeaderTitle = () => {
@@ -14,3 +14,5 @@ const HeaderTitle = () => {
 
 
 export default HeaderTitle;
+
+
